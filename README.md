@@ -5,7 +5,7 @@ An RubyInline-like framework in RGSSS (Ruby Game Scripting System Series of RPG 
 
 Only depends on, (no other things required, *even a binary form compiler like gcc*):
 * https://github.com/Artoria/RMSFX, which has a dependency of:
-* https://github.com/jjyg/Metasm, which contains an RGSSS-compatiance C compiler in pure Ruby
+* https://github.com/jjyg/Metasm, which contains an RGSSS-compliance C compiler in pure Ruby
 
 
 
